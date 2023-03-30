@@ -1,0 +1,408 @@
+body {
+ font-family: "Numito", sans-serif;
+}
+
+ .navbar-brand {
+  padding-left: 50px;
+  font-size: larger;
+  font-weight: 800;
+}
+.nav-link {
+  color: #f4ecec;
+}
+.navbar-nav {
+  padding-left: 630px;
+}
+ 
+
+main { 
+color: #000;
+  padding-top: 22px;
+ font-family: "Numito", sans-serif;
+  text-align: center;
+} 
+
+  button {
+    color: #e9e6e6;
+    background-color: rgb(158, 94, 218);
+    padding: 16px 36px;
+    border: 0px;
+    border-radius: 30px;
+    font-size: 26px;
+    font-weight: 700;
+  }
+  /* .header  {
+   background-image:   url(images/6-1.jpg) ;
+ background-repeat: no-repeat;
+  background-size: 100%  ;
+  /* background-size: cover; */
+ /* background-size: calc(100%) ;      cover,  
+}  */
+
+
+
+
+.head {
+  margin-top: -20px;
+  height: 777px;
+}
+
+.me {
+  margin-left:120px;
+}
+
+
+
+h2 {
+  margin-top:  32px;
+  margin-bottom: 25px;
+  font-family: "Numito" sans-serif;
+  color: #282525;
+  font-size: 44px;
+  text-align: left;
+  font-weight: 600;
+}
+h1 {
+  font-family: "Numito", sans-serif;
+   font-size: 72px;
+ margin-top: 0px;
+ font-style: bold;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 20px;
+ 
+margin-right: 122px;
+text-align: left;
+
+}
+p {
+  font-family: "ABeeZee", sans-serif;
+ 
+}
+.recipe  {
+width: 333px;
+  text-align: left;
+  font-size: small;
+  padding-left: 15px;
+}
+
+
+
+h3 {
+  margin-top: 20px;
+  font-size: 32px;
+  font-weight: 400;
+  font-weight: 600;
+
+  line-height: 20px;
+
+  padding-bottom: 20px;
+}
+
+h4 {
+  margin-top: 9px;
+  font-size: 22px;
+  font-weight: 400;
+  font-weight: 600;
+
+  line-height: 20px;
+
+   
+}
+
+.row {
+  padding: 17px 66px;
+  
+  border-radius: 30px;
+ }
+
+.foto {
+  padding-top: 80px;
+  background-color: rgb(28, 28, 28);
+  height: 1388px;
+}
+
+img {
+  margin: 10px;
+ 
+  
+}
+
+.follow {
+  font-weight: 700;
+}
+
+
+
+
+.f1 {
+  margin-right: 3pc;
+}
+
+.f4 {
+  margin-left: 3pc;
+}
+
+footer {
+  background-color: rgb(35, 28, 28);
+  height: 144px;
+  color: #f3efef;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 53px 16px;
+}
+
+ 
+
+
+.icon {
+  font-size: smaller;
+  padding-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  height: 42px;
+}
+
+
+.sm{
+  display: none;
+}
+
+
+.col-6 {
+  background-color: rgb(225, 202, 228);
+ 
+  width:  50%;
+  margin: 10px 0px;
+ }
+
+
+.col-4 {
+  background-color: rgb(191, 220, 210);
+ 
+   
+ 
+ }
+.my-contacts {
+
+padding-left: 0px;
+}
+.col-8 {
+  background-color: rgb(220, 166, 217);
+ 
+   
+ 
+ }
+/* ----------------------------------about---------------------------------------------------------------- */
+
+.about-page {
+font-size: larger;
+  margin-left: 56px;
+}
+.about-h2 {
+
+  margin: 0px 84px;
+}
+
+.mail {
+font-size: 32px;
+}
+
+/* ------------------------------------------------------------------------------------------------------ */
+
+.img-email {
+  width: 40px;
+}
+
+
+
+/* --------------------------------------------media----------------------------------------------------- */
+
+@media (max-width: 600px) {
+  .navbar-brand {
+    font-size: 23px;
+    padding-left: 10px;
+    color: #f8f0f0;
+    font-weight: 700;
+padding-top: 0px;
+margin-top: 0px;
+ }
+
+ 
+
+  .navbar-nav {
+   padding-left: 300px;   /* menu nav pod knookoi  */
+  }
+  .nav-link {
+    color: #615c5c;
+
+    font-size: smaller;
+  }
+
+
+ 
+
+  h1 {
+    margin-bottom: 9px;
+    font-family: "ABeeZee", sans-serif;
+    color: #7b075c;
+font-weight: 870px;
+    font-size: 50px; }
+
+  h2 {
+    margin-bottom: 100px;
+    font-family: "ABeeZee", sans-serif;
+    color: #2f2828;
+    font-size: 30px;
+  }
+     h3 {
+    font-family: "Overpass", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #610461;
+
+    margin-top: 0px;
+
+    line-height: 20px;
+ 
+    padding-bottom: 80px;
+  }
+  button {
+    padding: 23px 36px;
+    border: 3px solid rgb(75, 9, 75);
+    border-radius: 30px;
+    font-size: 44px;
+    font-weight: 700;
+ 
+  }
+
+ h4 {
+  color: #b00d8a;
+
+  margin-top: 77px;
+  margin-bottom: 66px;
+ }
+
+h5 {
+margin-top: 0px;
+ 
+
+}
+
+
+
+
+.me {
+   width: 111px; 
+   margin-left: 0px;
+   padding-left: 0px;
+   background-color: #510537;
+  }
+  .about-mr {
+width: 5px;
+ 
+  }
+.p-about-mr {
+   background-color: #f3efef;
+
+  width: 281px; 
+}
+
+
+
+  p {
+    font-size: 17px;
+    width: 300px;
+   
+    margin-left: -155px;
+  }
+
+.p {
+  font-size: large; 
+  margin-left:  60px;
+  margin-bottom:  90px;;
+}
+
+ section  {
+  display: none;
+}
+
+.sm{
+  display: contents
+}
+
+.my-contacts {
+
+display: none;
+}
+
+.col-6 {
+  background-color:  white   ;
+ 
+ }
+  
+ 
+  .foto {
+    padding-top: 80px;
+    background-color: rgb(28, 28, 28);
+    height: 4488px;
+  }
+
+  img {
+    width: 77%;
+  }
+
+  .f1 {
+    margin-right: 0pc;
+  }
+
+  .f4 {
+    margin-left: 0pc;
+
+
+    /* ---------------------------------footer-------------------------------------------------- */
+  }
+  footer {
+    height: 84px;
+    background-color: #38322f;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 16px;
+  }
+  .logo {
+    font-size: 9px;
+    font-weight: 600;
+  margin-top: 18px;
+    height: 13px;
+  }
+
+ 
+  .icon {
+    display: flex;
+    justify-content: space-around;
+    height: 37px;
+    width: 20%;
+    font-size: 11px;
+    padding-left: 0px;
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+ p   {
+      margin-left: 0px;
+      font-size: 11px;
+       margin-top: 18px;
+      margin-right: 0px;
+ }
+
+
+
+
+} 
